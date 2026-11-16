@@ -1,0 +1,5 @@
+baseURL = "https://test-site-hugo.vercel.app/"
+languageCode = "en-us"
+title = "Test site (Hugo)"
+[markup.goldmark.renderer]
+  unsafe = false
